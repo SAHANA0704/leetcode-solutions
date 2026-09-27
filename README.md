@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** Jeevith R  
-**Roll Number:** R25EF106
+**Name:** JL Sahana   
+**Roll Number:** R25EF103
 
 Personal LeetCode practice log — part of B25GE0101 portfolio
 
